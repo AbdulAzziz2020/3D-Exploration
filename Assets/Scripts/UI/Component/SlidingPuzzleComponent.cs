@@ -5,9 +5,7 @@ using UnityEngine.EventSystems;
 
 namespace Game
 {
-    public sealed class SlidingPuzzleComponent :
-        UIComponent,
-        IPointerClickHandler
+    public sealed class SlidingPuzzleComponent : UIComponent, IPointerClickHandler
     {
         [SerializeField] private TMP_Text m_text;
         [SerializeField] private GameObject m_view;
