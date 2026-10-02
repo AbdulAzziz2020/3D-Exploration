@@ -91,7 +91,7 @@ Pattern yang digunakan dalam project:
 
 ---
 
-# 🔌 Plugins
+# 🔌 Plugins & Assets
 
 | Plugin | Kegunaan |
 |----------|-----------|
@@ -99,6 +99,20 @@ Pattern yang digunakan dalam project:
 | Input System | Input Management |
 | TextMeshPro | Text Rendering |
 | Unitask | Async Programming |
+| Newtonsoft JSON | JSON Enchancement |
+
+## Sources
+Plugin
+- [Newtonsoft JSON](https://www.newtonsoft.com/json)
+- [UniTask](https://github.com/Cysharp/UniTask)
+- [Wingman](https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181)
+- [vHeirarchy V2](https://assetstore.unity.com/packages/tools/utilities/vhierarchy-2-253397) 
+- [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
+
+Third Party
+- [KayKit - Adventurers Character Pack (for Unity)](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/kaykit-adventurers-character-pack-for-unity-290679)
+- [Gridbox Prototype Materials](https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127)
+- [GUI Pro - Minimal Game Dark](https://assetstore.unity.com/packages/2d/gui/gui-pro-minimal-game-dark-358058)
 
 ---
 
