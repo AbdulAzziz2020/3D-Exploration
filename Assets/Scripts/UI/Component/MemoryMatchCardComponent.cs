@@ -30,10 +30,7 @@ namespace Game
 
         public event Action<MemoryMatchCardComponent> Clicked;
 
-        public void Setup(
-            int p_index,
-            int p_pairId,
-            Sprite p_sprite)
+        public void Setup(int p_index, int p_pairId, Sprite p_sprite)
         {
             m_index = p_index;
             m_pairId = p_pairId;
@@ -71,10 +68,7 @@ namespace Game
             m_isCompleted = true;
             m_isRevealed = true;
             m_canInteract = false;
-
-            // Hide only the visual.
-            // Component itself remains active so GridLayoutGroup
-            // keeps the slot.
+            
             m_view.SetActive(false);
         }
 
